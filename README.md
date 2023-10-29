@@ -15,7 +15,7 @@ Este servicio web permite a los usuarios obtener una lista paginada de cursos. F
 
 ### Instrucciones
 
-1. Clona o descarga el repositorio de .
+1. Clona o descarga el repositorio de https://github.com/Oz9107/Cursos.git.
 2. Copia el proyecto en la carpeta `htdocs` de XAMPP.
 3. Inicia los servicios de Apache y MySQL en XAMPP.
 4. Accede al servicio web a través de la URL: `http://localhost/Cursos.php`.
